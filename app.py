@@ -1,5 +1,3 @@
-```python
-
 from fastapi import FastAPI
 
 from fastapi.responses import HTMLResponse
@@ -212,4 +210,4 @@ except:
 
 pass
 
-```
+
